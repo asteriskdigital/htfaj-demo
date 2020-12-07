@@ -1,0 +1,4 @@
+theme = [
+"hugo-component-filter-ajs",
+"github.com/theNewDynamic/gohugo-theme-ananke"
+]
